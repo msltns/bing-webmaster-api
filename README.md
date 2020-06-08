@@ -3,7 +3,7 @@
 Bing webmaster api client
 ## Instalation
    ```
-   composer require webjeyros/bing-webmaster-api
+   composer require msltns/bing-webmaster-api
    ```
 ## Example usage:
 
